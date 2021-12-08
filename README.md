@@ -3,7 +3,7 @@
 
 ## 'Predicting Depression, Anxiety and Stress'
 
-This is the repository for the 3rd project on ML for 
+This is the repository for the 1st project on ML for 
 the [Big Blue Data Academy](https://bigblue.academy/en) Bootcamp 2021/2022. 
 The title of the project is 
 'Predicting Depression, Anxiety and Stress'. 
