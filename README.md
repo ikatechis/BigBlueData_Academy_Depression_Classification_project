@@ -15,3 +15,5 @@ Datasets Used:
 
 These are the results of an interactive version of the Taylor Manifest Anxiety Scale.
 from: https://openpsychometrics.org/tests/TMAS/
+
+If you are curious to see our analysis and conclusions from the classification see our [presentation](https://docs.google.com/presentation/d/1mL-F7-xrgIvdS8JhE1oFlZYL6vUw5lwi3mB57Ncp3y4/edit?usp=sharing)
